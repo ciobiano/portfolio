@@ -116,15 +116,19 @@ export default function Footer() {
             links={[
               {
                 title: 'Facebook',
-                path: 'http://facebook.com',
+                path: 'http://facebook.com/obianorafael/',
               },
               {
                 title: 'Twitter',
-                path: 'http://twitter.com',
+                path: 'https://twitter.com/bg_ralphy',
               },
               {
                 title: 'Instagram',
-                path: 'http://instagram.com',
+                path: 'http://instagram.com/bg_ralph',
+              },
+              {
+                title: 'Linkedin',
+                path: 'http://linkedin.com/in/chukwuemeka-obiano-35b93b165/',
               },
             ]}
           />
